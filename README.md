@@ -1,2 +1,2 @@
-Obscura a AI chat bot
+Obscura an AI chat bot
 
